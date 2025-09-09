@@ -30,6 +30,11 @@ The app is built using **Tkinter** and supports full CRUD operations:
 - Delete Student Data
 - View All Records (in a Treeview widget)
 
+📸 Screenshot
+Here is what the app looks like:
+
+![Screenshot of Student data Management App using Tkinter](Screenshot.png)
+
 ---
 
 ## Tech Stack
